@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+	<user id="1" type="user" dateCreate="11/20/2013" username="ilian" email="stoianov.ilian@gmail.com" password="connect" />
+	<user id="2" type="user" dateCreate="11/20/2013" username="some" email="some@gmail.com" password="connect" />
+	<user id="3" type="user" dateCreate="11/20/2013" username="other" email="other@gmail.com" password="connect" />
+</Users>

@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\ProjectX\ProjectX\bin\Debug\ProjectX.exe.config
+C:\Users\User\Desktop\ProjectX\ProjectX\bin\Debug\ProjectX.exe
+C:\Users\User\Desktop\ProjectX\ProjectX\bin\Debug\ProjectX.pdb
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormGeneral.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormHelp.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormLogin.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.Properties.Resources.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormRegistration.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.exe
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.pdb
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormGallery.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormProfile.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormSettings.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormStatistics.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.FormVideo.resources
+C:\Users\User\Desktop\ProjectX\ProjectX\obj\x86\Debug\ProjectX.csprojResolveAssemblyReference.cache
